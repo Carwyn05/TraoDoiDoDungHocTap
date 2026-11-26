@@ -1,0 +1,6 @@
+/app/config/config.php
+/public/uploads/*
+!/public/uploads/.gitkeep
+/backups/*
+!/backups/.gitkeep
+.vscode/
